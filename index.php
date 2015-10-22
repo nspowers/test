@@ -132,7 +132,7 @@
             <article>
                 <div class="row">
                     <div class="small-12 columns">
-                        <h2 id="contact">Say Hello</h2>
+                        <h2 id="contact">Say Hi</h2>
                         <hr class="dotted">
 
                     </div>
